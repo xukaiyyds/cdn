@@ -1,7 +1,7 @@
 // 飘落动画
 var stop, staticx;
 var img = new Image();
-img.src = "https://raw.githubusercontent.com/xukaiyyds/cdn/1.1.0/img/%E6%A8%B1%E8%8A%B1.png";
+img.src = "https://raw.githubusercontent.com/xukaiyyds/cdn/1.0.0/img/%E6%A8%B1%E8%8A%B1.png";
 
 // 樱花数量
 var sakuraNum = 20;
